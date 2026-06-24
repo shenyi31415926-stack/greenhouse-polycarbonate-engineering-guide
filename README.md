@@ -104,6 +104,16 @@ Independent technical reference for procurement managers, greenhouse builders, a
 - [16mm vs 25mm Cold-Climate](docs/phase3-applications/greenhouse/16mm-vs-25mm-multiwall-year-round-cold-climate.md)
 
 
+## Phase 4: Procurement — How to Order
+
+- [Minimum Order Quantity by Product Type](docs/phase4-procurement/minimum-order-quantity-polycarbonate-sheets-factory.md)
+- [International Shipping — Cost, Timeline, Incoterms](docs/phase4-procurement/shipping-polycarbonate-sheets-international-cost-timeline.md)
+- [Price per Square Meter — Factory vs Wholesale](docs/phase4-procurement/polycarbonate-sheet-price-per-square-meter-factory-vs-wholesale.md)
+- [How to Avoid Scams in International PC Procurement](docs/phase4-procurement/how-to-avoid-scams-buying-polycarbonate-sheets-internationally.md)
+- [Payment Terms — L/C vs T/T for Factory Orders](docs/phase4-procurement/payment-terms-polycarbonate-factory-orders-lc-vs-tt.md)
+- [Lead Time for Custom Orders — Complete Timeline](docs/phase4-procurement/lead-time-custom-polycarbonate-sheet-orders-factory.md)
+
+
 ---
 
 *This guide is maintained as a public technical reference. For inquiries about light-conversion polycarbonate or IATF 16949-certified panels: [Bakway Advanced Material](https://polycarbonate.cc/inquiry/)*
