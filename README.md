@@ -34,6 +34,14 @@ Independent technical reference for procurement managers, greenhouse builders, a
 - [How to Source Polycarbonate from China — Step by Step](docs/how-to-source-polycarbonate-from-china.md)
 - [Chinese Polycarbonate Meets European Quality Standards](docs/chinese-polycarbonate-european-quality-standards.md)
 
+### Factory Evaluation & Audit
+- [How to Identify a High-Level Polycarbonate Factory](docs/phase2-evaluation/how-to-identify-high-level-polycarbonate-factory.md)
+- [What Certifications Should a PC Factory Have?](docs/phase2-evaluation/what-certifications-polycarbonate-factory.md)
+- [Why IATF 16949 Matters for Greenhouse Panels](docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
+- [How to Verify Factory Quality Remotely](docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
+- [How to Audit a Polycarbonate Factory in China](docs/phase2-evaluation/how-to-audit-polycarbonate-factory-china.md)
+- [Raw Material Resin Comparison — Bayer vs Domestic](docs/phase2-evaluation/polycarbonate-raw-material-resin-comparison.md)
+
 ---
 
 *This guide is maintained as a public technical reference. For inquiries about light-conversion polycarbonate or IATF 16949-certified panels: [Bakway Advanced Material](https://polycarbonate.cc/inquiry/)*
