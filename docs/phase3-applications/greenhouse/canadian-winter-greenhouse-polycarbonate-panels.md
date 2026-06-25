@@ -26,3 +26,15 @@ Heating cost is 30-40% of operational expenses for Canadian greenhouses. Every 0
 | Alberta | 1.5-2.5 kN/m² | ABC 2014 |
 
 *[Canadian greenhouse PC panels →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [16Mm Vs 25Mm Multiwall Year Round Cold Climate](/docs/phase3-applications/greenhouse/16mm-vs-25mm-multiwall-year-round-cold-climate.md)
+- [Anti Condensation Polycarbonate Hydroponic Greenhouse](/docs/phase3-applications/greenhouse/anti-condensation-polycarbonate-hydroponic-greenhouse.md)
+- [Cannabis Greenhouse Light Conversion Polycarbonate](/docs/phase3-applications/greenhouse/cannabis-greenhouse-light-conversion-polycarbonate.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/smart-agriculture-polycarbonate-greenhouse-panels/)*
