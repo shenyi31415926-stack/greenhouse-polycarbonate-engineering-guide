@@ -37,3 +37,15 @@ For orders over $50,000 or first-time supplier relationships: use irrevocable L/
 Almost never for first orders. PC sheet factories operate on thin margins (8-15%) and cannot finance your inventory. After 3-5 successful orders, some suppliers will offer OA 30-day terms — but this is relationship-dependent, not standard.
 
 *[Payment terms and trade finance →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Avoid Scams Buying Polycarbonate Sheets International](/docs/phase4-procurement/how-to-avoid-scams-buying-polycarbonate-sheets-internationally.md)
+- [Lead Time Custom Polycarbonate Sheet Orders Factory](/docs/phase4-procurement/lead-time-custom-polycarbonate-sheet-orders-factory.md)
+- [Minimum Order Quantity Polycarbonate Sheets Factory](/docs/phase4-procurement/minimum-order-quantity-polycarbonate-sheets-factory.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
