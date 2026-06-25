@@ -36,3 +36,15 @@ MOQ is the first question every procurement manager asks — and the answer dete
 Sometimes. If the products share the same base resin and thickness (different widths or cut sizes), they can be produced in the same extrusion run. Ask: "Can I combine MOQ across SKUs that share the same base material?"
 
 *[MOQ and custom orders →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Avoid Scams Buying Polycarbonate Sheets International](/docs/phase4-procurement/how-to-avoid-scams-buying-polycarbonate-sheets-internationally.md)
+- [Lead Time Custom Polycarbonate Sheet Orders Factory](/docs/phase4-procurement/lead-time-custom-polycarbonate-sheet-orders-factory.md)
+- [Payment Terms Polycarbonate Factory Orders Lc Vs Tt](/docs/phase4-procurement/payment-terms-polycarbonate-factory-orders-lc-vs-tt.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
