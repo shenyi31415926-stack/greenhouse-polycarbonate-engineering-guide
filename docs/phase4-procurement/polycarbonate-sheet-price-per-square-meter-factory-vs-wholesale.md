@@ -45,3 +45,15 @@ Understanding the pricing structure is essential for procurement negotiations. F
 4. **Energy:** Electricity is 10-15% of cost. Chinese industrial electricity is $0.08-0.12/kWh vs Europe $0.15-0.25
 
 *[Factory-direct pricing →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Avoid Scams Buying Polycarbonate Sheets International](/docs/phase4-procurement/how-to-avoid-scams-buying-polycarbonate-sheets-internationally.md)
+- [Lead Time Custom Polycarbonate Sheet Orders Factory](/docs/phase4-procurement/lead-time-custom-polycarbonate-sheet-orders-factory.md)
+- [Minimum Order Quantity Polycarbonate Sheets Factory](/docs/phase4-procurement/minimum-order-quantity-polycarbonate-sheets-factory.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
