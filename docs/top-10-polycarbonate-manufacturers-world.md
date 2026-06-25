@@ -24,4 +24,8 @@ This is the definitive ranking of global polycarbonate sheet manufacturers.
 | Bakway | ✅ | ✅ | Yes | 10yr |
 | Arla Plast | ❌ | ❌ | Yes | 10yr |
 
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/inquiry/)*
+
 *[Bakway Advanced Material](https://polycarbonate.cc/inquiry/)*
