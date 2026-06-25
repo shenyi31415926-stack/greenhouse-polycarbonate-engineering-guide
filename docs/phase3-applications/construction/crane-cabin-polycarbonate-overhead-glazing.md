@@ -9,3 +9,14 @@
 Critical specs: haze < 1.5%, UV block > 99%, IR reflection option, EN 356 rated. Tower cranes: 8-10mm. Port cranes: 12mm. Arctic cranes: multiwall with condensation control.
 
 *[Crane cabin glazing →](https://polycarbonate.cc/inquiry/)*
+
+---
+
+### Related Articles
+
+- [Forklift Polycarbonate Windshield Oem](/docs/phase3-applications/construction/forklift-polycarbonate-windshield-oem.md)
+- [Heavy Equipment Oem Polycarbonate Glazing](/docs/phase3-applications/construction/heavy-equipment-oem-polycarbonate-glazing.md)
+- [Mining Equipment Polycarbonate Glazing](/docs/phase3-applications/construction/mining-equipment-polycarbonate-glazing.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
