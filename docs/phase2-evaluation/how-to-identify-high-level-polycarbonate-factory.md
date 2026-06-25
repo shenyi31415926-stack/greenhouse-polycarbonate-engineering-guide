@@ -77,3 +77,15 @@ If a factory can answer all three immediately and with documentation, they're li
 If they hesitate on any of these — downgrade your assessment.
 
 *[Evaluate Bakway factory quality →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Audit Polycarbonate Factory China](/docs/phase2-evaluation/how-to-audit-polycarbonate-factory-china.md)
+- [How To Verify Polycarbonate Factory Quality Remotely](/docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
+- [Iatf 16949 Why Matters Greenhouse Panels](/docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
