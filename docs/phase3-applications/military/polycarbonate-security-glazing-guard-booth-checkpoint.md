@@ -26,3 +26,15 @@ Security glazing for fixed installations — guard booths, checkpoints, embassy 
 For Level 1-2 (handgun): monolithic PC with hard coat is sufficient and lighter. For Level 3 (rifle): glass-clad PC laminate is required — glass absorbs the initial impact, PC catches spall and provides the final barrier.
 
 *[Security glazing →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [Ballistic Polycarbonate Armored Vehicle Glazing](/docs/phase3-applications/military/ballistic-polycarbonate-armored-vehicle-glazing.md)
+- [Transparent Armor Polycarbonate Nij Stanag Procurement](/docs/phase3-applications/military/transparent-armor-polycarbonate-nij-stanag-procurement.md)
+- [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/industrial-safety-glazing/)*
