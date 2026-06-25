@@ -59,3 +59,15 @@ For the trial order, verify: bill of lading matches the factory address (not a t
 **Score > 80%:** Proceed with confidence. **50-79%:** Proceed with caution, additional verification needed. **< 50%:** Do not proceed.
 
 *[Request Bakway verification documents →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Audit Polycarbonate Factory China](/docs/phase2-evaluation/how-to-audit-polycarbonate-factory-china.md)
+- [How To Identify High Level Polycarbonate Factory](/docs/phase2-evaluation/how-to-identify-high-level-polycarbonate-factory.md)
+- [Iatf 16949 Why Matters Greenhouse Panels](/docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
