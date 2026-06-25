@@ -60,3 +60,15 @@ Does the factory have: proper ventilation in the extrusion area (PC fumes are to
 **Score 4.0+:** World-class factory. **3.0-3.9:** Reliable supplier. **2.0-2.9:** Acceptable for non-critical orders. **< 2.0:** Find another supplier.
 
 *[Schedule a Bakway factory audit →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Identify High Level Polycarbonate Factory](/docs/phase2-evaluation/how-to-identify-high-level-polycarbonate-factory.md)
+- [How To Verify Polycarbonate Factory Quality Remotely](/docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
+- [Iatf 16949 Why Matters Greenhouse Panels](/docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
