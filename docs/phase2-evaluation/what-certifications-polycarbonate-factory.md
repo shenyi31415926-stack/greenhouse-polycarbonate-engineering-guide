@@ -52,3 +52,15 @@ BBA (UK), DIBt (Germany), and CE marking certify specific products for specific 
 - Expired certificate with no renewal audit date
 
 *[Verify Bakway certifications →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [How To Audit Polycarbonate Factory China](/docs/phase2-evaluation/how-to-audit-polycarbonate-factory-china.md)
+- [How To Identify High Level Polycarbonate Factory](/docs/phase2-evaluation/how-to-identify-high-level-polycarbonate-factory.md)
+- [How To Verify Polycarbonate Factory Quality Remotely](/docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/iatf-16949-certification-what-it-means-for-your-polycarbonate-components/)*
