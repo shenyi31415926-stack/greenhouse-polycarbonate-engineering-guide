@@ -21,3 +21,15 @@ Standard PC blocks UV — a wasted energy source. Light-conversion PC converts U
 Health Canada's Good Production Practices (GPP) require: batch traceability of all materials contacting the product zone, documented material specifications, and change control for any material substitution. Light-conversion PC panels must be documented as a GPP-controlled material with certificate of analysis.
 
 *[Cannabis greenhouse PC →](https://polycarbonate.cc/inquiry/)*
+
+
+---
+
+### Related Articles
+
+- [16Mm Vs 25Mm Multiwall Year Round Cold Climate](/docs/phase3-applications/greenhouse/16mm-vs-25mm-multiwall-year-round-cold-climate.md)
+- [Anti Condensation Polycarbonate Hydroponic Greenhouse](/docs/phase3-applications/greenhouse/anti-condensation-polycarbonate-hydroponic-greenhouse.md)
+- [Canadian Winter Greenhouse Polycarbonate Panels](/docs/phase3-applications/greenhouse/canadian-winter-greenhouse-polycarbonate-panels.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/smart-agriculture-polycarbonate-greenhouse-panels/)*
