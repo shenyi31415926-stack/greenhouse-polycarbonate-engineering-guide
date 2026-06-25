@@ -10,3 +10,14 @@
 Always co-extruded UV regardless of tint. Dark tint without UV coating still transmits UV-A. Check state regulations for street-legal UTV tint limits.
 
 *[Tinted PC windshields →](https://polycarbonate.cc/inquiry/)*
+
+---
+
+### Related Articles
+
+- [Aftermarket Golf Cart Windshield Supply](/docs/phase3-applications/golfcart-utv/aftermarket-golf-cart-windshield-supply.md)
+- [Fold Down Polycarbonate Windshield Manufacturing](/docs/phase3-applications/golfcart-utv/fold-down-polycarbonate-windshield-manufacturing.md)
+- [Golf Cart Utv Oem Polycarbonate Windshield](/docs/phase3-applications/golfcart-utv/golf-cart-utv-oem-polycarbonate-windshield.md)
+
+
+*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
