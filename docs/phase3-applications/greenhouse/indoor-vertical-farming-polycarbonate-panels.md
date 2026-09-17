@@ -21,7 +21,7 @@ Unlike greenhouses that prioritize direct light transmission, vertical farms nee
 
 Anti-fog (hydrophilic coating that spreads condensation into a transparent film). Anti-condensation (hydrophobic coating that repels water). For vertical farms with 80-100% RH: anti-fog. Condensation dripping onto LED fixtures is a fire hazard and crop contamination risk.
 
-*[Vertical farming PC panels →](https://polycarbonate.cc/inquiry/)*
+*[Vertical farming PC panels →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -33,4 +33,4 @@ Anti-fog (hydrophilic coating that spreads condensation into a transparent film)
 - [Canadian Winter Greenhouse Polycarbonate Panels](/docs/phase3-applications/greenhouse/canadian-winter-greenhouse-polycarbonate-panels.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/smart-agriculture-polycarbonate-greenhouse-panels/)*
+*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*

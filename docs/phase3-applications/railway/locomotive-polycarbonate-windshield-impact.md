@@ -11,7 +11,7 @@
 
 Complete assemblies: PC + heated interlayer + aluminum frame + gasket. 10-year delamination warranty.
 
-*[Locomotive windshield →](https://polycarbonate.cc/inquiry/)*
+*[Locomotive windshield →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -22,4 +22,4 @@ Complete assemblies: PC + heated interlayer + aluminum frame + gasket. 10-year d
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

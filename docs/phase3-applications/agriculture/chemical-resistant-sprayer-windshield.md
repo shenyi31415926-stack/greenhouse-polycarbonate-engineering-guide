@@ -8,7 +8,7 @@
 
 Require ISO 2812 data from supplier. Self-propelled sprayer OEMs need: curved forming, exterior hard coat, interior anti-fog, FEA for road travel at 60 km/h.
 
-*[Chemical-resistant PC →](https://polycarbonate.cc/inquiry/)*
+*[Chemical-resistant PC →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ Require ISO 2812 data from supplier. Self-propelled sprayer OEMs need: curved fo
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

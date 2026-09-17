@@ -58,7 +58,7 @@ The higher upfront cost of premium resin pays back through longer service life �
 
 For a hobby greenhouse: no. For a commercial greenhouse where panel failure means crop loss: the premium resin pays for itself within 2-3 years through avoided replacement cost and downtime. If the factory uses Makrolon or Lexan, they'll tell you — it's a selling point. If they won't name their resin supplier, assume it's unbranded domestic.
 
-*[Makrolon-based polycarbonate panels →](https://polycarbonate.cc/inquiry/)*
+*[Makrolon-based polycarbonate panels →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -70,4 +70,4 @@ For a hobby greenhouse: no. For a commercial greenhouse where panel failure mean
 - [How To Verify Polycarbonate Factory Quality Remotely](/docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

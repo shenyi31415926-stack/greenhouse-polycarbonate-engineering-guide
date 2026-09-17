@@ -4,12 +4,12 @@
 |----------|-------------|----------------|
 | Covestro | 250x glass | IATF 16949, UL 94 |
 | SABIC | 250x + abrasion | IATF 16949, EN 356 |
-| Bakway | 200x glass | IATF 16949 |
+| Plastura | 200x glass | IATF 16949 |
 | Brett Martin | 200x glass | ISO 9001 |
 
 IATF 16949 guarantees batch-to-batch impact consistency for safety-critical applications.
 
-*[Industrial PC →](https://polycarbonate.cc/inquiry/)*
+*[Industrial PC →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ IATF 16949 guarantees batch-to-batch impact consistency for safety-critical appl
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/product/solid-pc-sheets/)*
+*[Learn more about this topic →](https://plastura.com/materials/polycarbonate/solid/)*

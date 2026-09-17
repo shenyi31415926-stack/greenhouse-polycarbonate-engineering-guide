@@ -8,7 +8,7 @@
 
 0.5 diopters of distortion = object appears 2m from actual at 100m. Optical-grade uses polished chrome rollers in clean room + polarized light inspection.
 
-*[Optical-grade PC →](https://polycarbonate.cc/inquiry/)*
+*[Optical-grade PC →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@
 - [Motorcycle Oem Polycarbonate Windshield Supply](/docs/phase3-applications/motorcycle/motorcycle-oem-polycarbonate-windshield-supply.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

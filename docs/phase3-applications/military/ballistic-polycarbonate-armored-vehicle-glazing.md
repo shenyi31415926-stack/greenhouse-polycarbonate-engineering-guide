@@ -28,7 +28,7 @@ Pure glass ballistic glazing is heavy (50 kg/m² for NIJ III) and spalls (glass 
 
 NIJ IIIA (20-25mm PC laminate) is standard for CIT vehicles. Weight is the limiting factor — thicker = heavier, affecting vehicle payload and fuel economy.
 
-*[Ballistic PC glazing →](https://polycarbonate.cc/inquiry/)*
+*[Ballistic PC glazing →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -40,4 +40,4 @@ NIJ IIIA (20-25mm PC laminate) is standard for CIT vehicles. Weight is the limit
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/industrial-safety-glazing/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

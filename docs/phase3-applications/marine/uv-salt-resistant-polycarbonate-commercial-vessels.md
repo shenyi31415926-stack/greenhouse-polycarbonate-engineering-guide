@@ -9,7 +9,7 @@
 
 Spec: marine-grade hard coat, ASTM B117 1000+ hrs, factory edge seal, 12mm minimum wheelhouse, 8mm side windows. Warranty must explicitly cover marine use.
 
-*[Marine commercial PC →](https://polycarbonate.cc/inquiry/)*
+*[Marine commercial PC →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Spec: marine-grade hard coat, ASTM B117 1000+ hrs, factory edge seal, 12mm minim
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

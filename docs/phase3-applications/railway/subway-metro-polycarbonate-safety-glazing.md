@@ -9,7 +9,7 @@
 
 PC reduces window replacement by 60-80% vs glass. Single shattered window: $1,500-3,000 (labor + downtime). PC with anti-graffiti: 5-8 years in high-vandalism routes. Complete assemblies: PC + frame + gasket + anti-graffiti film.
 
-*[Metro safety glazing →](https://polycarbonate.cc/inquiry/)*
+*[Metro safety glazing →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ PC reduces window replacement by 60-80% vs glass. Single shattered window: $1,50
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

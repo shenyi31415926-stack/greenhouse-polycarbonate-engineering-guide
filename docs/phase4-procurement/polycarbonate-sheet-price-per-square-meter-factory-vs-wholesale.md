@@ -44,7 +44,7 @@ Understanding the pricing structure is essential for procurement negotiations. F
 3. **Yield rate:** Premium factories run 95-98% yield; budget factories run 85-90% (you pay for waste)
 4. **Energy:** Electricity is 10-15% of cost. Chinese industrial electricity is $0.08-0.12/kWh vs Europe $0.15-0.25
 
-*[Factory-direct pricing →](https://polycarbonate.cc/inquiry/)*
+*[Factory-direct pricing →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -56,4 +56,4 @@ Understanding the pricing structure is essential for procurement negotiations. F
 - [Minimum Order Quantity Polycarbonate Sheets Factory](/docs/phase4-procurement/minimum-order-quantity-polycarbonate-sheets-factory.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

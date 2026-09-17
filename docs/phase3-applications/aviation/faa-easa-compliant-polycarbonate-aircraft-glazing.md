@@ -8,7 +8,7 @@
 
 PMA aftermarket windows: 30-50% cost reduction vs OEM, identical certification. MRO supply needs: PMA/OEM docs, material certs, shelf life dating (PC absorbs moisture), AOG expedited shipping.
 
-*[FAA/EASA PC glazing →](https://polycarbonate.cc/inquiry/)*
+*[FAA/EASA PC glazing →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ PMA aftermarket windows: 30-50% cost reduction vs OEM, identical certification. 
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

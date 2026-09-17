@@ -42,7 +42,7 @@ Custom PC sheet orders follow a predictable timeline. Understanding the critical
 
 Air freight for PC sheets costs $3-5/kg vs $0.15-0.30/kg for sea freight. Only use for: urgent replacement panels when downtime costs exceed freight premium, prototype/test panels for new projects, and small sample orders (< 50 sqm).
 
-*[Custom order lead times →](https://polycarbonate.cc/inquiry/)*
+*[Custom order lead times →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -54,4 +54,4 @@ Air freight for PC sheets costs $3-5/kg vs $0.15-0.30/kg for sea freight. Only u
 - [Payment Terms Polycarbonate Factory Orders Lc Vs Tt](/docs/phase4-procurement/payment-terms-polycarbonate-factory-orders-lc-vs-tt.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

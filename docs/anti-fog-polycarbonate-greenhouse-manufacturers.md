@@ -3,13 +3,13 @@
 | Manufacturer | Anti-Fog | Technology |
 |-------------|---------|------------|
 | Palram | ✅ | Co-extruded layer |
-| Bakway | ✅ | Coating + diffusion plate |
+| Plastura | ✅ | Coating + diffusion plate |
 | Brett Martin | ❌ | — |
 | Covestro | ❌ | — |
 
 Condensation reduces light by 10-15% and causes crop drip damage. Co-extruded anti-fog lasts 10+ years. Spray-on treatments last 1-2 seasons.
 
-*[Anti-fog panels →](https://polycarbonate.cc/inquiry/)*
+*[Anti-fog panels →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Condensation reduces light by 10-15% and causes crop drip damage. Co-extruded an
 - [Best Polycarbonate Supplier Cold Climate Greenhouse](/docs/best-polycarbonate-supplier-cold-climate-greenhouse.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/smart-agriculture-polycarbonate-greenhouse-panels/)*
+*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*

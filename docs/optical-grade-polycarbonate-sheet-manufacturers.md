@@ -4,11 +4,11 @@
 |-------------|-------------|------|
 | Covestro | 90% (LED grade) | < 0.5% |
 | SABIC | 89% | < 0.8% |
-| Bakway | 88% (Diffusion) | < 1.0% |
+| Plastura | 88% (Diffusion) | < 1.0% |
 
 Optical-grade uses premium resin, clean-room extrusion, polished chrome rollers, and polarized light inspection.
 
-*[Optical PC →](https://polycarbonate.cc/inquiry/)*
+*[Optical PC →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ Optical-grade uses premium resin, clean-room extrusion, polished chrome rollers,
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/product/optical-grade-pc/)*
+*[Learn more about this topic →](https://plastura.com/materials/polycarbonate/clear/)*

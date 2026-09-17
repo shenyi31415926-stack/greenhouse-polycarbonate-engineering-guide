@@ -59,7 +59,7 @@ Does the factory have: proper ventilation in the extrusion area (PC fumes are to
 
 **Score 4.0+:** World-class factory. **3.0-3.9:** Reliable supplier. **2.0-2.9:** Acceptable for non-critical orders. **< 2.0:** Find another supplier.
 
-*[Schedule a Bakway factory audit →](https://polycarbonate.cc/inquiry/)*
+*[Schedule a Plastura factory audit →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -71,4 +71,4 @@ Does the factory have: proper ventilation in the extrusion area (PC fumes are to
 - [Iatf 16949 Why Matters Greenhouse Panels](/docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

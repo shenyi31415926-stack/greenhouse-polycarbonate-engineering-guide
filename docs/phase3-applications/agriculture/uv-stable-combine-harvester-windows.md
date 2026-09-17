@@ -4,7 +4,7 @@ Combines operate 12-14 hrs/day in peak UV. Requirements: two-sided co-extrusion 
 
 Check warranty exclusions for "agricultural use" and "abrasive environments."
 
-*[UV-stable ag PC →](https://polycarbonate.cc/inquiry/)*
+*[UV-stable ag PC →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -15,4 +15,4 @@ Check warranty exclusions for "agricultural use" and "abrasive environments."
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

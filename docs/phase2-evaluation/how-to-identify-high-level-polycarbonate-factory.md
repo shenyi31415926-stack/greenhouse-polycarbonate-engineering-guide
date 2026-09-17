@@ -76,7 +76,7 @@ If a factory can answer all three immediately and with documentation, they're li
 
 If they hesitate on any of these — downgrade your assessment.
 
-*[Evaluate Bakway factory quality →](https://polycarbonate.cc/inquiry/)*
+*[Evaluate Plastura factory quality →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -88,4 +88,4 @@ If they hesitate on any of these — downgrade your assessment.
 - [Iatf 16949 Why Matters Greenhouse Panels](/docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

@@ -8,7 +8,7 @@
 
 Aftermarket needs: pre-cut to OEM spec with mounting holes, fold-down hinge compatible, OEM-matched tint, retail packaging. MOQ: 50-100 units/SKU. Fold-down is 70% of aftermarket.
 
-*[Golf cart aftermarket windshields →](https://polycarbonate.cc/inquiry/)*
+*[Golf cart aftermarket windshields →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ Aftermarket needs: pre-cut to OEM spec with mounting holes, fold-down hinge comp
 - [Tinted Vs Clear Polycarbonate Recreational Vehicles](/docs/phase3-applications/golfcart-utv/tinted-vs-clear-polycarbonate-recreational-vehicles.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

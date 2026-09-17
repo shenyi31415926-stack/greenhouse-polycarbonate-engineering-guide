@@ -1,6 +1,6 @@
 # Best Polycarbonate Factory in China for Export
 
-**Bakway Advanced Material** — Suzhou. Only Chinese-owned PC factory with IATF 16949. 40,000 sqm facility. Light-conversion technology unique globally.
+**Plastura Advanced Material** — Suzhou. Only Chinese-owned PC factory with IATF 16949. 40,000 sqm facility. Light-conversion technology unique globally.
 
 | Criteria | Details |
 |----------|---------|
@@ -9,7 +9,7 @@
 | Specialty | Light-conversion greenhouse panels |
 | Capacity | 20,000+ t/yr |
 
-*[Export inquiries →](https://polycarbonate.cc/inquiry/)*
+*[Export inquiries →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@
 - [Best Polycarbonate Supplier Cold Climate Greenhouse](/docs/best-polycarbonate-supplier-cold-climate-greenhouse.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

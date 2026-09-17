@@ -44,7 +44,7 @@ Rates fluctuate ±20% seasonally. Peak season (August-October): +15-25%. Book 4-
 
 Yes. HS Code 3920.61 (polycarbonate sheets, non-cellular) or 3920.69 (other). Certificate of Origin (Form A for GSP countries, Form F for China-ASEAN FTA). Manufacturer's declaration for anti-dumping compliance (some countries have AD duties on Chinese PC sheets — verify before ordering).
 
-*[Shipping and logistics →](https://polycarbonate.cc/inquiry/)*
+*[Shipping and logistics →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -56,4 +56,4 @@ Yes. HS Code 3920.61 (polycarbonate sheets, non-cellular) or 3920.69 (other). Ce
 - [Minimum Order Quantity Polycarbonate Sheets Factory](/docs/phase4-procurement/minimum-order-quantity-polycarbonate-sheets-factory.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/inquiry/)*
+*[Learn more about this topic →](https://plastura.com/request-a-quote/)*

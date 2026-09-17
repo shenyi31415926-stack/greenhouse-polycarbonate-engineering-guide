@@ -9,7 +9,7 @@
 
 Process: extrude → thermoform → hard coat → inspect. Hard coat AFTER forming. IATF 16949 becoming standard for Tier 1.
 
-*[Motorcycle OEM windshields →](https://polycarbonate.cc/inquiry/)*
+*[Motorcycle OEM windshields →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Process: extrude → thermoform → hard coat → inspect. Hard coat AFTER formi
 - [Optical Grade Polycarbonate Motorcycle Windscreen](/docs/phase3-applications/motorcycle/optical-grade-polycarbonate-motorcycle-windscreen.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

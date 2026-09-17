@@ -9,7 +9,7 @@ For 1,000 sqm (10mm multiwall):
 
 Factory-direct saves 15-30% on orders > 100 sqm. MOQ: 50-200 sqm. Distributor better for < 100 sqm and urgent orders.
 
-*[Pricing inquiry →](https://polycarbonate.cc/inquiry/)*
+*[Pricing inquiry →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Factory-direct saves 15-30% on orders > 100 sqm. MOQ: 50-200 sqm. Distributor be
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/polycarbonate-manufacturing-technology/)*
+*[Learn more about this topic →](https://plastura.com/services/)*

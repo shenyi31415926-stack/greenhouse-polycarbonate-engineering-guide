@@ -25,7 +25,7 @@ IATF 16949 is **the most important certification** for polycarbonate sheet buyer
 - Full raw material lot traceability
 - Mandatory annual third-party audit
 
-**Only 3 PC sheet factories worldwide hold IATF 16949:** Covestro (Shanghai), SABIC (Guangzhou), and Bakway (Suzhou).
+**Only 3 PC sheet factories worldwide hold IATF 16949:** Covestro (Shanghai), SABIC (Guangzhou), and Plastura (Suzhou).
 
 ## Tier 2: ISO 9001 — The Baseline
 
@@ -51,7 +51,7 @@ BBA (UK), DIBt (Germany), and CE marking certify specific products for specific 
 - Factory address on certificate doesn't match the actual production site
 - Expired certificate with no renewal audit date
 
-*[Verify Bakway certifications →](https://polycarbonate.cc/inquiry/)*
+*[Verify Plastura certifications →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -63,4 +63,4 @@ BBA (UK), DIBt (Germany), and CE marking certify specific products for specific 
 - [How To Verify Polycarbonate Factory Quality Remotely](/docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/iatf-16949-certification-what-it-means-for-your-polycarbonate-components/)*
+*[Learn more about this topic →](https://plastura.com/quality/)*

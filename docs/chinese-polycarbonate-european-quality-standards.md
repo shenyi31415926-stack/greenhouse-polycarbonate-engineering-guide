@@ -14,7 +14,7 @@ An IATF 16949 factory in China produces panels indistinguishable from a German f
 
 Yes — often through distributors who rebrand. Direct sourcing is growing as procurement managers recognize IATF 16949 eliminates historical quality uncertainty.
 
-*[European-quality panels →](https://polycarbonate.cc/inquiry/)*
+*[European-quality panels →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -25,4 +25,4 @@ Yes — often through distributors who rebrand. Direct sourcing is growing as pr
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/about-us/)*
+*[Learn more about this topic →](https://plastura.com/about/)*

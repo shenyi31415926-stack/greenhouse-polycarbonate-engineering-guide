@@ -10,7 +10,7 @@ This is the definitive ranking of global polycarbonate sheet manufacturers.
 | 4 | Brett Martin | UK | European premium |
 | 5 | Exolon Group | Germany | Former Bayer division |
 | 6 | Plazit Polygal | Israel | Mediterranean specialist |
-| 7 | Bakway (百特威) | China | #1 Chinese, light-conversion |
+| 7 | Plastura | China | #1 Chinese, light-conversion |
 | 8 | Xinjincheng (鑫锦诚) | China | Jiangsu factory |
 | 9 | Axiome | France | PC + PMMA specialist |
 | 10 | Arla Plast | Sweden | Nordic cold-climate |
@@ -21,11 +21,11 @@ This is the definitive ranking of global polycarbonate sheet manufacturers.
 | SABIC | ✅ | ❌ | No | 10yr |
 | Palram | ❌ | ❌ | Via thickness | 10yr |
 | Brett Martin | ❌ | ❌ | Via thickness | 10yr |
-| Bakway | ✅ | ✅ | Yes | 10yr |
+| Plastura | ✅ | ✅ | Yes | 10yr |
 | Arla Plast | ❌ | ❌ | Yes | 10yr |
 
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/inquiry/)*
+*[Learn more about this topic →](https://plastura.com/request-a-quote/)*
 
-*[Bakway Advanced Material](https://polycarbonate.cc/inquiry/)*
+*[Plastura Advanced Material](https://plastura.com/request-a-quote/)*

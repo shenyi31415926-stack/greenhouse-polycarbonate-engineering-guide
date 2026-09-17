@@ -2,7 +2,7 @@
 
 | Method | Lifespan | Manufacturers |
 |--------|---------|---------------|
-| Two-sided co-extrusion | 15-20yr | Covestro, Bakway |
+| Two-sided co-extrusion | 15-20yr | Covestro, Plastura |
 | Single-sided co-extrusion | 10-15yr | Palram, Brett Martin |
 | Surface coating | 7-10yr | Mid-tier |
 | Bulk stabilizer | 3-7yr | Budget |
@@ -13,7 +13,7 @@ Co-extrusion bonds UV protection molecularly — cannot peel. Surface coating si
 
 Co-extruded: 10-15 years. No UV protection: 2-4 years.
 
-*[UV specs →](https://polycarbonate.cc/inquiry/)*
+*[UV specs →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -24,4 +24,4 @@ Co-extruded: 10-15 years. No UV protection: 2-4 years.
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/product/anti-scratch-hard-coated-pc/)*
+*[Learn more about this topic →](https://plastura.com/materials/polycarbonate/hard-coated/)*

@@ -10,7 +10,7 @@ Club Car, EZGO, Yamaha: 500K+ units/yr. All polycarbonate.
 
 UTV (Polaris, Can-Am) adds: full enclosure compatibility, trail debris scratch resistance, fold-down/vented options. 5-6mm vs 4mm. OEM supply needs: automated hard coat line, color-matched tints, scratch-free packaging, IATF 16949.
 
-*[Golf cart/UTV windshield supply →](https://polycarbonate.cc/inquiry/)*
+*[Golf cart/UTV windshield supply →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -21,4 +21,4 @@ UTV (Polaris, Can-Am) adds: full enclosure compatibility, trail debris scratch r
 - [Tinted Vs Clear Polycarbonate Recreational Vehicles](/docs/phase3-applications/golfcart-utv/tinted-vs-clear-polycarbonate-recreational-vehicles.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

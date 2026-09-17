@@ -32,7 +32,7 @@ Only FIA-homologated windshields can be used in FIA-sanctioned competition. Usin
 | Rally (WRC) | 5-6mm | Yes (defrost) | Glass-like | 120°C |
 | Formula regional | 4mm | Optional | Polysiloxane | 120°C |
 
-*[FIA PC windshields →](https://polycarbonate.cc/inquiry/)*
+*[FIA PC windshields →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -44,4 +44,4 @@ Only FIA-homologated windshields can be used in FIA-sanctioned competition. Usin
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/windshields/)*
+*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*

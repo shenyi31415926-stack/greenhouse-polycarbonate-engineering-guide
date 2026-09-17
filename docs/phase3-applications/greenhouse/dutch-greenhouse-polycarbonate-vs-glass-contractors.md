@@ -21,7 +21,7 @@ Glass greenhouses cost 15-25% more to build (structural steel for glass weight) 
 
 For domestic Dutch projects: glass (tradition, lifespan, light transmission). For export projects to cold climates: PC multiwall (heating economics dominate). The trend is shifting toward PC even in the Netherlands as energy prices rise.
 
-*[Dutch greenhouse PC →](https://polycarbonate.cc/inquiry/)*
+*[Dutch greenhouse PC →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -33,4 +33,4 @@ For domestic Dutch projects: glass (tradition, lifespan, light transmission). Fo
 - [Canadian Winter Greenhouse Polycarbonate Panels](/docs/phase3-applications/greenhouse/canadian-winter-greenhouse-polycarbonate-panels.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/smart-agriculture-polycarbonate-greenhouse-panels/)*
+*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*

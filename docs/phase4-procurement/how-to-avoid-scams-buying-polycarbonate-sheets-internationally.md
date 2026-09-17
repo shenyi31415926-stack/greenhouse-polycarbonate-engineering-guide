@@ -48,7 +48,7 @@ International PC sheet procurement fraud costs buyers an estimated $50-100M annu
 
 Yes — for first orders under $10,000. Trade Assurance provides some protection, but it's not a substitute for due diligence. The real value is that it filters out the worst scammers who refuse to use it.
 
-*[Safe international procurement →](https://polycarbonate.cc/inquiry/)*
+*[Safe international procurement →](https://plastura.com/request-a-quote/)*
 
 
 ---
@@ -60,4 +60,4 @@ Yes — for first orders under $10,000. Trade Assurance provides some protection
 - [Payment Terms Polycarbonate Factory Orders Lc Vs Tt](/docs/phase4-procurement/payment-terms-polycarbonate-factory-orders-lc-vs-tt.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/inquiry/)*
+*[Learn more about this topic →](https://plastura.com/request-a-quote/)*

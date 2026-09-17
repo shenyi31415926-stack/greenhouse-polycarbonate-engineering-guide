@@ -9,7 +9,7 @@
 
 For mining/quarry: polysiloxane minimum. Urban construction: silicone is sufficient. Supplier must provide ASTM D1044 Taber data, ASTM D3359 adhesion test, and chemical resistance data.
 
-*[Hard-coated PC cab windows →](https://polycarbonate.cc/inquiry/)*
+*[Hard-coated PC cab windows →](https://plastura.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ For mining/quarry: polysiloxane minimum. Urban construction: silicone is suffici
 - [Heavy Equipment Oem Polycarbonate Glazing](/docs/phase3-applications/construction/heavy-equipment-oem-polycarbonate-glazing.md)
 
 
-*[Learn more about this topic →](https://polycarbonate.cc/product/anti-scratch-hard-coated-pc/)*
+*[Learn more about this topic →](https://plastura.com/materials/polycarbonate/hard-coated/)*
