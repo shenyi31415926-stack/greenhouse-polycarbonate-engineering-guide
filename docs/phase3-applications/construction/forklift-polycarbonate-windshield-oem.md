@@ -8,7 +8,7 @@
 
 OEMs need: JIT delivery, pre-cut to CAD, edge-sealed, batch-traceable. IATF 16949 increasingly required.
 
-*[Forklift PC windshield →](https://plastura.com/request-a-quote/)*
+*[Forklift PC windshield →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ OEMs need: JIT delivery, pre-cut to CAD, edge-sealed, batch-traceable. IATF 1694
 - [Mining Equipment Polycarbonate Glazing](/docs/phase3-applications/construction/mining-equipment-polycarbonate-glazing.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

@@ -20,7 +20,7 @@ Seedlings and cuttings are photosensitive — direct sunlight scorches leaves an
 
 Opal (white) diffusion panels — not clear. Clear panels create light hot spots that kill seedlings at the bench edge while center plants are light-starved. Opal diffusion evens out the light distribution across the entire bench.
 
-*[Nursery PC panels →](https://plastura.com/request-a-quote/)*
+*[Nursery PC panels →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -32,4 +32,4 @@ Opal (white) diffusion panels — not clear. Clear panels create light hot spots
 - [Canadian Winter Greenhouse Polycarbonate Panels](/docs/phase3-applications/greenhouse/canadian-winter-greenhouse-polycarbonate-panels.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

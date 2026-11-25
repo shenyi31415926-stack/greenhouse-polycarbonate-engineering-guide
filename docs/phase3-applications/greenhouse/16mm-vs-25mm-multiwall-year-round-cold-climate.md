@@ -22,7 +22,7 @@ The thickness decision is the most consequential specification a cold-climate gr
 
 25mm loses 5-6% more PAR than 16mm due to additional internal walls. For high-light crops (tomatoes, peppers): 16mm with more supplemental lighting may outperform 25mm with less light. For low-light crops (leafy greens, cannabis vegetative): 25mm with its heating savings wins. Light-conversion PC changes this calculus — it recovers some of the lost PAR through UV conversion, reducing the light penalty of thicker panels.
 
-*[Cold-climate multiwall PC →](https://plastura.com/request-a-quote/)*
+*[Cold-climate multiwall PC →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -34,4 +34,4 @@ The thickness decision is the most consequential specification a cold-climate gr
 - [Cannabis Greenhouse Light Conversion Polycarbonate](/docs/phase3-applications/greenhouse/cannabis-greenhouse-light-conversion-polycarbonate.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

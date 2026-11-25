@@ -8,7 +8,7 @@
 
 For 3D curved windshields: UV-cured acrylate hard coat best balance of hardness and flexibility. Exterior must be hard coated. Interior: anti-fog.
 
-*[Hard-coated motorcycle PC →](https://plastura.com/request-a-quote/)*
+*[Hard-coated motorcycle PC →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ For 3D curved windshields: UV-cured acrylate hard coat best balance of hardness 
 - [Optical Grade Polycarbonate Motorcycle Windscreen](/docs/phase3-applications/motorcycle/optical-grade-polycarbonate-motorcycle-windscreen.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

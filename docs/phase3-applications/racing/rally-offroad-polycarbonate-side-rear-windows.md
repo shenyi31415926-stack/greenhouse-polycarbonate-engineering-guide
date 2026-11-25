@@ -20,7 +20,7 @@ Glass side windows shatter on first gravel stage. A WRC team replaces 2-4 glass 
 
 Unlike circuit racing, rally windows accumulate surface scratches from continuous gravel and mud impact. Teams budget 2 sets of PC windows per season: a fresh set for tarmac rounds, a used set for gravel rounds where optical perfection matters less. Removable protective films (tear-offs) are standard for the windshield but less common for side/rear.
 
-*[Rally PC windows →](https://plastura.com/request-a-quote/)*
+*[Rally PC windows →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -32,4 +32,4 @@ Unlike circuit racing, rally windows accumulate surface scratches from continuou
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

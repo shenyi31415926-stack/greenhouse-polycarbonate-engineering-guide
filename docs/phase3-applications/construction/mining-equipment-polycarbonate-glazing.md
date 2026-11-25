@@ -9,7 +9,7 @@
 
 50-unit fleet with glass: 12-18 replacements/truck/yr at $400-600 each. PC with hard coat: 1-2/yr. Fleet savings: $200K-450K/yr.
 
-*[Mining PC glazing →](https://plastura.com/request-a-quote/)*
+*[Mining PC glazing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@
 - [Heavy Equipment Oem Polycarbonate Glazing](/docs/phase3-applications/construction/heavy-equipment-oem-polycarbonate-glazing.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

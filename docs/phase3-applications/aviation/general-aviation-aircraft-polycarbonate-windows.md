@@ -9,7 +9,7 @@
 
 PC for unpressurized aircraft (Cessna 172, Piper) and helicopter bubbles. Acrylic for pressurized cabins. Supplier: FAA PMA or OEM approval, clean room (ISO 8), lot traceability, 100% inspection.
 
-*[Aircraft PC windows →](https://plastura.com/request-a-quote/)*
+*[Aircraft PC windows →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ PC for unpressurized aircraft (Cessna 172, Piper) and helicopter bubbles. Acryli
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

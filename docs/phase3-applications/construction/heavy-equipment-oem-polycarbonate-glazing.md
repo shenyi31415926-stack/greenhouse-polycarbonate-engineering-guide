@@ -26,7 +26,7 @@ For OEMs manufacturing excavators, bulldozers, and loaders, cab glazing must sur
 | Downtime (hours) | 32 | 216 |
 | **5yr TCO** | **$180-340** | **$280-540** |
 
-*[Heavy equipment PC glazing →](https://plastura.com/request-a-quote/)*
+*[Heavy equipment PC glazing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -37,4 +37,4 @@ For OEMs manufacturing excavators, bulldozers, and loaders, cab glazing must sur
 - [Mining Equipment Polycarbonate Glazing](/docs/phase3-applications/construction/mining-equipment-polycarbonate-glazing.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

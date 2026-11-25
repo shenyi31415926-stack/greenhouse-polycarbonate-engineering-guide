@@ -4,13 +4,13 @@
 |------|-------|-----|
 | 1 | Palram Sunlite | Largest installed base |
 | 2 | Brett Martin Marlon | UK/EU standard |
-| 3 | Plastura | IATF 16949, light-conversion |
+| 3 | SinoPlastix | IATF 16949, light-conversion |
 | 4 | Covestro Makrolon | German engineering |
 | 5 | Arla Plast | Publicly listed, transparent |
 
 Commercial growers check: warranty claims speed, batch consistency, real weathering data, and 10-year supplier stability.
 
-*[Commercial specs →](https://plastura.com/request-a-quote/)*
+*[Commercial specs →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -21,4 +21,4 @@ Commercial growers check: warranty claims speed, batch consistency, real weather
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

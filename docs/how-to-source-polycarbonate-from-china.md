@@ -13,7 +13,7 @@
 - Price > 30% below market
 - No export references to your region
 
-*[Start sourcing →](https://plastura.com/request-a-quote/)*
+*[Start sourcing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -24,4 +24,4 @@
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/about/)*
+*[Learn more about this topic →](https://sinoplastix.com/about/)*

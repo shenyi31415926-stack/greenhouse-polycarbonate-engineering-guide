@@ -11,7 +11,7 @@
 
 PC saves 76% over 5 years. Key factor: PC takes impact and remains functional; glass replacement means downtime.
 
-*[Fleet TCO analysis →](https://plastura.com/request-a-quote/)*
+*[Fleet TCO analysis →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -22,4 +22,4 @@ PC saves 76% over 5 years. Key factor: PC takes impact and remains functional; g
 - [Heavy Equipment Oem Polycarbonate Glazing](/docs/phase3-applications/construction/heavy-equipment-oem-polycarbonate-glazing.md)
 
 
-*[Learn more about this topic →](https://plastura.com/request-a-quote/)*
+*[Learn more about this topic →](https://sinoplastix.com/request-a-quote/)*

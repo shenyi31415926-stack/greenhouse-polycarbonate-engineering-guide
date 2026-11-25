@@ -5,7 +5,7 @@ Certification level predicts quality better than country of origin.
 | Country | Top Cert | Key Factories |
 |---------|---------|--------------|
 | Germany | IATF 16949 | Covestro, Exolon |
-| China | IATF 16949 | Plastura |
+| China | IATF 16949 | SinoPlastix |
 | Saudi Arabia | IATF 16949 | SABIC (Guangzhou) |
 | UK | ISO 9001 + BBA | Brett Martin |
 
@@ -15,7 +15,7 @@ Polycarbonate resin is a globally traded commodity. Covestro and SABIC supply re
 
 Not automatically. An IATF 16949 factory in China produces to the same standard as one in Germany. Evaluate individual certifications, not country of origin.
 
-*[Factory quality verification →](https://plastura.com/request-a-quote/)*
+*[Factory quality verification →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -26,4 +26,4 @@ Not automatically. An IATF 16949 factory in China produces to the same standard 
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/request-a-quote/)*
+*[Learn more about this topic →](https://sinoplastix.com/request-a-quote/)*

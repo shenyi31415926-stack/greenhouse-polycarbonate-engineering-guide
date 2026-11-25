@@ -6,7 +6,7 @@ Only 3 factories worldwide:
 |-------------|-----|---------------|
 | Covestro | Germany | Shanghai Caojing |
 | SABIC | Saudi Arabia | Guangzhou |
-| Plastura | China | Suzhou |
+| SinoPlastix | China | Suzhou |
 
 ## ISO 9001 vs IATF 16949
 
@@ -19,7 +19,7 @@ Only 3 factories worldwide:
 
 For greenhouse panels, IATF 16949 means predictable U-values across 10,000 sqm and precise defect identification.
 
-*[IATF 16949 panels →](https://plastura.com/quality/)*
+*[IATF 16949 panels →](https://sinoplastix.com/quality/)*
 
 ---
 
@@ -30,4 +30,4 @@ For greenhouse panels, IATF 16949 means predictable U-values across 10,000 sqm a
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/quality/)*
+*[Learn more about this topic →](https://sinoplastix.com/quality/)*

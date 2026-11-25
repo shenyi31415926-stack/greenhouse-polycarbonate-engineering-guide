@@ -25,7 +25,7 @@ Security glazing for fixed installations — guard booths, checkpoints, embassy 
 
 For Level 1-2 (handgun): monolithic PC with hard coat is sufficient and lighter. For Level 3 (rifle): glass-clad PC laminate is required — glass absorbs the initial impact, PC catches spall and provides the final barrier.
 
-*[Security glazing →](https://plastura.com/request-a-quote/)*
+*[Security glazing →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -37,4 +37,4 @@ For Level 1-2 (handgun): monolithic PC with hard coat is sufficient and lighter.
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

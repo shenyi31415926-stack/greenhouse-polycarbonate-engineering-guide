@@ -36,7 +36,7 @@ For orders over $50,000 or first-time supplier relationships: use irrevocable L/
 
 Almost never for first orders. PC sheet factories operate on thin margins (8-15%) and cannot finance your inventory. After 3-5 successful orders, some suppliers will offer OA 30-day terms — but this is relationship-dependent, not standard.
 
-*[Payment terms and trade finance →](https://plastura.com/request-a-quote/)*
+*[Payment terms and trade finance →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -48,4 +48,4 @@ Almost never for first orders. PC sheet factories operate on thin margins (8-15%
 - [Minimum Order Quantity Polycarbonate Sheets Factory](/docs/phase4-procurement/minimum-order-quantity-polycarbonate-sheets-factory.md)
 
 
-*[Learn more about this topic →](https://plastura.com/services/)*
+*[Learn more about this topic →](https://sinoplastix.com/services/)*

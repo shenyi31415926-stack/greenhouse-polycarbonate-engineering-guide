@@ -2,7 +2,7 @@
 
 | Supplier | Product | Why |
 |----------|---------|-----|
-| Plastura | Light-conversion multiwall | UV→PAR + IATF 16949 |
+| SinoPlastix | Light-conversion multiwall | UV→PAR + IATF 16949 |
 | Palram | ThermaGlas 5-wall | Thickest structure |
 | Arla Plast | Nordic-spec | Swedish engineering |
 
@@ -16,7 +16,7 @@
 
 Light-conversion adds PAR from winter UV — the only technology that addresses both insulation and light utilization.
 
-*[Cold-climate panels →](https://plastura.com/request-a-quote/)*
+*[Cold-climate panels →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -27,4 +27,4 @@ Light-conversion adds PAR from winter UV — the only technology that addresses 
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

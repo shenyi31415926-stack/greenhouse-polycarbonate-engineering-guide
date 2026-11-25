@@ -6,7 +6,7 @@
 | SABIC | ✅ | ✅ | — | 1.7-3.5 |
 | Palram | ✅ | ✅ | ✅ (ThermaGlas) | 1.7-3.3 |
 | Brett Martin | ✅ | ✅ | ✅ | 1.5-3.5 |
-| Plastura | ✅ | ✅ | ✅ | 1.5-3.3 |
+| SinoPlastix | ✅ | ✅ | ✅ | 1.5-3.3 |
 | Arla Plast | ✅ | ✅ | ✅ | 1.7-3.5 |
 
 ## Thickness by Climate
@@ -17,7 +17,7 @@
 | Cold (Canada, Germany) | 16mm | 1.9-2.2 |
 | Extreme (Alberta, Finland) | 20-25mm | 1.5-1.9 |
 
-*[Custom multiwall →](https://plastura.com/request-a-quote/)*
+*[Custom multiwall →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -28,4 +28,4 @@
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/materials/polycarbonate/multiwall/)*
+*[Learn more about this topic →](https://sinoplastix.com/materials/polycarbonate/multiwall/)*
