@@ -3,4 +3,5 @@ description: Technical reference for greenhouse builders evaluating polycarbonat
 url: "https://shenyi31415926-stack.github.io"
 baseurl: "/greenhouse-polycarbonate-engineering-guide"
 exclude:
-  - docs/
+  - docs
+  - docs/**/*
