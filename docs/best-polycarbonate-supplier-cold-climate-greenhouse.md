@@ -2,7 +2,7 @@
 
 | Supplier | Product | Why |
 |----------|---------|-----|
-| SinoPlastix | Light-conversion multiwall | UV→PAR + IATF 16949 |
+| SinoPlastix | Light-conversion multiwall | UV→PAR light conversion |
 | Palram | ThermaGlas 5-wall | Thickest structure |
 | Arla Plast | Nordic-spec | Swedish engineering |
 

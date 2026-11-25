@@ -5,7 +5,7 @@ Certification level predicts quality better than country of origin.
 | Country | Top Cert | Key Factories |
 |---------|---------|--------------|
 | Germany | IATF 16949 | Covestro, Exolon |
-| China | IATF 16949 | SinoPlastix |
+| China | Factory-specific | Covestro Shanghai, SABIC Guangzhou, export factories |
 | Saudi Arabia | IATF 16949 | SABIC (Guangzhou) |
 | UK | ISO 9001 + BBA | Brett Martin |
 

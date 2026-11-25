@@ -36,7 +36,7 @@ IATF 16949 costs $50,000-150,000 to implement and $20,000-40,000 annually to mai
 
 For a commercial greenhouse where panel failure means crop loss and revenue interruption: IATF 16949 isn't a luxury. It's insurance. The certification premium (typically 10-15% over ISO 9001 panels) is recovered within 1-2 growing seasons through predictable performance and zero defect-related downtime.
 
-*[IATF 16949 certified greenhouse panels →](https://sinoplastix.com/request-a-quote/)*
+*[Greenhouse polycarbonate panels →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---

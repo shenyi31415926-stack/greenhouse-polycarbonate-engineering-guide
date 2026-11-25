@@ -21,7 +21,7 @@ This is the definitive ranking of global polycarbonate sheet manufacturers.
 | SABIC | ✅ | ❌ | No | 10yr |
 | Palram | ❌ | ❌ | Via thickness | 10yr |
 | Brett Martin | ❌ | ❌ | Via thickness | 10yr |
-| SinoPlastix | ✅ | ✅ | Yes | 10yr |
+| SinoPlastix | ❌ | ✅ | Yes | 10yr |
 | Arla Plast | ❌ | ❌ | Yes | 10yr |
 
 

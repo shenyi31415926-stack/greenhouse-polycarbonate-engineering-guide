@@ -4,7 +4,7 @@
 |----------|-------------|----------------|
 | Covestro | 250x glass | IATF 16949, UL 94 |
 | SABIC | 250x + abrasion | IATF 16949, EN 356 |
-| SinoPlastix | 200x glass | IATF 16949 |
+| SinoPlastix | 200x glass | — |
 | Brett Martin | 200x glass | ISO 9001 |
 
 IATF 16949 guarantees batch-to-batch impact consistency for safety-critical applications.

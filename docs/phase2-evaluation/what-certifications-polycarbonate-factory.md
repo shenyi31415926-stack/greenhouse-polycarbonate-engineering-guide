@@ -25,7 +25,7 @@ IATF 16949 is **the most important certification** for polycarbonate sheet buyer
 - Full raw material lot traceability
 - Mandatory annual third-party audit
 
-**Only 3 PC sheet factories worldwide hold IATF 16949:** Covestro (Shanghai), SABIC (Guangzhou), and SinoPlastix (Suzhou).
+IATF 16949-certified polycarbonate sheet factories are uncommon; verify any certification claim directly in the issuing body's database.
 
 ## Tier 2: ISO 9001 — The Baseline
 
@@ -51,7 +51,7 @@ BBA (UK), DIBt (Germany), and CE marking certify specific products for specific 
 - Factory address on certificate doesn't match the actual production site
 - Expired certificate with no renewal audit date
 
-*[Verify SinoPlastix certifications →](https://sinoplastix.com/request-a-quote/)*
+*[Request SinoPlastix quality documentation →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---

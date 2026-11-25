@@ -4,7 +4,7 @@
 |------|-------|-----|
 | 1 | Palram Sunlite | Largest installed base |
 | 2 | Brett Martin Marlon | UK/EU standard |
-| 3 | SinoPlastix | IATF 16949, light-conversion |
+| 3 | SinoPlastix | Light-conversion |
 | 4 | Covestro Makrolon | German engineering |
 | 5 | Arla Plast | Publicly listed, transparent |
 
