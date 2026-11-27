@@ -9,7 +9,7 @@
 
 Process: optical-grade Makrolon/Lexan → free-blown (no mold contact) at 170-190°C in clean room → CNC trim → hard coat → multi-angle inspection. Models: Robinson R22/R44, Bell 206/407, Airbus H125/H130. Approved supplier list qualification required.
 
-*[Helicopter PC glazing →](https://plastura.com/request-a-quote/)*
+*[Helicopter PC glazing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Process: optical-grade Makrolon/Lexan → free-blown (no mold contact) at 170-19
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

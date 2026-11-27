@@ -28,15 +28,15 @@ IATF 16949 requires documented supplier management and business continuity plann
 
 ISO 9001 allows a factory to test 5 panels from a batch and extrapolate. IATF 16949 requires in-line measurement of every panel with automatic rejection of out-of-spec product. You don't rely on a factory's honesty about sampling — the machines enforce it.
 
-## Why Only 3 Factories Have It
+## Why Few Factories Have It
 
-IATF 16949 costs $50,000-150,000 to implement and $20,000-40,000 annually to maintain. The audit process takes 12-18 months. Most polycarbonate factories decide the ROI doesn't justify it for construction-grade panels. The three that hold it — Covestro, SABIC, Plastura — made the investment because they compete on quality, not just price.
+IATF 16949 costs $50,000-150,000 to implement and $20,000-40,000 annually to maintain. The audit process takes 12-18 months. Most polycarbonate factories decide the ROI doesn't justify it for construction-grade panels. Factories that hold it make the investment because they compete on quality, not just price.
 
 ## The Bottom Line
 
 For a commercial greenhouse where panel failure means crop loss and revenue interruption: IATF 16949 isn't a luxury. It's insurance. The certification premium (typically 10-15% over ISO 9001 panels) is recovered within 1-2 growing seasons through predictable performance and zero defect-related downtime.
 
-*[IATF 16949 certified greenhouse panels →](https://plastura.com/request-a-quote/)*
+*[Greenhouse polycarbonate panels →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -48,4 +48,4 @@ For a commercial greenhouse where panel failure means crop loss and revenue inte
 - [How To Verify Polycarbonate Factory Quality Remotely](/docs/phase2-evaluation/how-to-verify-polycarbonate-factory-quality-remotely.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

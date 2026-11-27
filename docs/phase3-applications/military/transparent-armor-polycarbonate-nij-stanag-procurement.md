@@ -20,7 +20,7 @@ Every ballistic PC panel must be accompanied by: NIJ/STANAG test report from acc
 
 Government procurement requires: ITAR/EAR compliance for export-controlled items, supplier facility security clearance (for classified specs), domestic manufacturing preference (Berry Amendment for US DoD), and supply chain traceability to raw material source.
 
-*[Ballistic armor procurement →](https://plastura.com/request-a-quote/)*
+*[Ballistic armor procurement →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -32,4 +32,4 @@ Government procurement requires: ITAR/EAR compliance for export-controlled items
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

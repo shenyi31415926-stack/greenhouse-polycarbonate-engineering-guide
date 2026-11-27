@@ -8,7 +8,7 @@
 
 Critical specs: haze < 1.5%, UV block > 99%, IR reflection option, EN 356 rated. Tower cranes: 8-10mm. Port cranes: 12mm. Arctic cranes: multiwall with condensation control.
 
-*[Crane cabin glazing →](https://plastura.com/request-a-quote/)*
+*[Crane cabin glazing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -19,4 +19,4 @@ Critical specs: haze < 1.5%, UV block > 99%, IR reflection option, EN 356 rated.
 - [Mining Equipment Polycarbonate Glazing](/docs/phase3-applications/construction/mining-equipment-polycarbonate-glazing.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

@@ -19,7 +19,7 @@ For commercial hydroponic facilities: co-extruded anti-fog is the only permanent
 
 A properly applied anti-fog coating actually increases effective light transmission by 8-12% in high-humidity conditions — not by changing the panel's optical properties, but by preventing the condensation droplets that scatter and reflect incoming light.
 
-*[Anti-condensation PC panels →](https://plastura.com/request-a-quote/)*
+*[Anti-condensation PC panels →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -31,4 +31,4 @@ A properly applied anti-fog coating actually increases effective light transmiss
 - [Cannabis Greenhouse Light Conversion Polycarbonate](/docs/phase3-applications/greenhouse/cannabis-greenhouse-light-conversion-polycarbonate.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

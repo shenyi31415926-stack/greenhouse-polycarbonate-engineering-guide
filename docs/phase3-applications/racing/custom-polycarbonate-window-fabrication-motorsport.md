@@ -25,7 +25,7 @@ Motorsport fabricators need windows for one-off builds, restorations, and vehicl
 
 PC requires 170-190°C for thermoforming — achievable with industrial heat lamps or oven but requires: uniform heating (cold spots cause optical distortion), mold surface finish (transfers to PC), and post-forming annealing (relieves internal stress). For non-optical parts (headlight covers): DIY is feasible. For windshields: professional fabrication only.
 
-*[Custom motorsport PC →](https://plastura.com/request-a-quote/)*
+*[Custom motorsport PC →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -37,4 +37,4 @@ PC requires 170-190°C for thermoforming — achievable with industrial heat lam
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

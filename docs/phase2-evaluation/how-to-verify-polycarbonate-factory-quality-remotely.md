@@ -58,7 +58,7 @@ For the trial order, verify: bill of lading matches the factory address (not a t
 
 **Score > 80%:** Proceed with confidence. **50-79%:** Proceed with caution, additional verification needed. **< 50%:** Do not proceed.
 
-*[Request Plastura verification documents →](https://plastura.com/request-a-quote/)*
+*[Request SinoPlastix verification documents →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -70,4 +70,4 @@ For the trial order, verify: bill of lading matches the factory address (not a t
 - [Iatf 16949 Why Matters Greenhouse Panels](/docs/phase2-evaluation/iatf-16949-why-matters-greenhouse-panels.md)
 
 
-*[Learn more about this topic →](https://plastura.com/services/)*
+*[Learn more about this topic →](https://sinoplastix.com/services/)*

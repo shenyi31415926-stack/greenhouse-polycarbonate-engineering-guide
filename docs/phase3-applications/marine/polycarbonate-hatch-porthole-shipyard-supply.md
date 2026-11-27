@@ -10,7 +10,7 @@
 
 Classification: LR, DNV, ABS, BV. Shipyards need: CAD-to-part, class approval, complete assemblies, 5-year warranty. Lead time: 8-16 weeks custom.
 
-*[Marine hatch/porthole →](https://plastura.com/request-a-quote/)*
+*[Marine hatch/porthole →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -21,4 +21,4 @@ Classification: LR, DNV, ABS, BV. Shipyards need: CAD-to-part, class approval, c
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

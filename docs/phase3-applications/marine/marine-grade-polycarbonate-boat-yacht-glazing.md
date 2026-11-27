@@ -9,7 +9,7 @@
 
 Marine-grade uses polysiloxane with salt-spray additive. Water reflection amplifies UV 1.8-2.5x vs land. Edge seal critical: capillary action draws salt water into unsealed edges → delamination.
 
-*[Marine PC glazing →](https://plastura.com/request-a-quote/)*
+*[Marine PC glazing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Marine-grade uses polysiloxane with salt-spray additive. Water reflection amplif
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

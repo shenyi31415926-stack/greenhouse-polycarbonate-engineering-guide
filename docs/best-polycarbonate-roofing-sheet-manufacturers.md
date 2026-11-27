@@ -5,11 +5,11 @@
 | Brett Martin | Clickfix | Interlocking system |
 | Palram | Suntuf | DIY + commercial |
 | Covestro | Makrolon multiwall | Industrial |
-| Plastura | U-lock standing seam | Commercial system |
+| SinoPlastix | U-lock standing seam | Commercial system |
 
 Thermal expansion: 0.065mm/m/°C. A 6m panel needs 15.6mm expansion gap. Snow load: 1.5-2.5 kN/m².
 
-*[Roofing systems →](https://plastura.com/request-a-quote/)*
+*[Roofing systems →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Thermal expansion: 0.065mm/m/°C. A 6m panel needs 15.6mm expansion gap. Snow lo
 - [Best Polycarbonate Supplier Cold Climate Greenhouse](/docs/best-polycarbonate-supplier-cold-climate-greenhouse.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/roofing/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/roofing/)*

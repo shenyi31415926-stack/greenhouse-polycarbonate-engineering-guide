@@ -9,7 +9,7 @@
 
 Single-wall (6-10mm) for side/rear windows. Multiwall (10-16mm) for roof insulation. Heated PC rear windows available.
 
-*[Agricultural PC glazing →](https://plastura.com/request-a-quote/)*
+*[Agricultural PC glazing →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ Single-wall (6-10mm) for side/rear windows. Multiwall (10-16mm) for roof insulat
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

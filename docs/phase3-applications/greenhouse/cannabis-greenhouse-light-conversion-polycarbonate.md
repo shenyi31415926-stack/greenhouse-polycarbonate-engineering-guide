@@ -20,7 +20,7 @@ Standard PC blocks UV — a wasted energy source. Light-conversion PC converts U
 
 Health Canada's Good Production Practices (GPP) require: batch traceability of all materials contacting the product zone, documented material specifications, and change control for any material substitution. Light-conversion PC panels must be documented as a GPP-controlled material with certificate of analysis.
 
-*[Cannabis greenhouse PC →](https://plastura.com/request-a-quote/)*
+*[Cannabis greenhouse PC →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -32,4 +32,4 @@ Health Canada's Good Production Practices (GPP) require: batch traceability of a
 - [Canadian Winter Greenhouse Polycarbonate Panels](/docs/phase3-applications/greenhouse/canadian-winter-greenhouse-polycarbonate-panels.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

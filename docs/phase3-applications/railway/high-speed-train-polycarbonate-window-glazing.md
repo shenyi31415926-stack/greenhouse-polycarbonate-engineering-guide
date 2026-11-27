@@ -10,7 +10,7 @@
 
 PC for inner panes and side windows. Laminated glass for outer windshield (track debris at 300+ km/h). Supplier: EN 15152 certified, EN 45545 tested, IRIS certified.
 
-*[Rail glazing supply →](https://plastura.com/request-a-quote/)*
+*[Rail glazing supply →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -21,4 +21,4 @@ PC for inner panes and side windows. Laminated glass for outer windshield (track
 - [Anti Fog Polycarbonate Greenhouse Manufacturers](/docs/anti-fog-polycarbonate-greenhouse-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

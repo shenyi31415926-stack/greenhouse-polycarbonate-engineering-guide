@@ -9,7 +9,7 @@
 
 $12-16 material savings on domestic grade loses customers on second purchase. Process: CNC → thermoform at 180-200°C → hard coat → UV cure → optical inspection.
 
-*[Aftermarket PC materials →](https://plastura.com/request-a-quote/)*
+*[Aftermarket PC materials →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -20,4 +20,4 @@ $12-16 material savings on domestic grade loses customers on second purchase. Pr
 - [Optical Grade Polycarbonate Motorcycle Windscreen](/docs/phase3-applications/motorcycle/optical-grade-polycarbonate-motorcycle-windscreen.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/machine-guards/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/machine-guards/)*

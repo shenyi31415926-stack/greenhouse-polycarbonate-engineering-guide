@@ -2,12 +2,12 @@
 
 | Certification | China Factories |
 |--------------|----------------|
-| IATF 16949 | 3 (Covestro Shanghai, SABIC Guangzhou, Plastura Suzhou) |
+| IATF 16949 | 2 (Covestro Shanghai, SABIC Guangzhou) |
 | ISO 9001 | 10+ |
 
-Only Plastura is Chinese-owned among IATF 16949 holders. IATF requires: zero-defect targets, statistical process control, lot traceability, mandatory third-party audits.
+IATF requires: zero-defect targets, statistical process control, lot traceability, and mandatory third-party audits.
 
-*[Certification verification →](https://plastura.com/request-a-quote/)*
+*[Certification verification →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -18,4 +18,4 @@ Only Plastura is Chinese-owned among IATF 16949 holders. IATF requires: zero-def
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/quality/)*
+*[Learn more about this topic →](https://sinoplastix.com/quality/)*

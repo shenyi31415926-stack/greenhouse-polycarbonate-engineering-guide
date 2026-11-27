@@ -4,7 +4,7 @@
 |------|----------|----------|
 | 1 | Palram | Sunlite + ThermaGlas, most installed |
 | 2 | Brett Martin | Marlon ST, UK/EU standard |
-| 3 | Plastura | Light-conversion PC, cold-climate |
+| 3 | SinoPlastix | Light-conversion PC, cold-climate |
 | 4 | Covestro | Makrolon multiwall, premium |
 | 5 | Arla Plast | Nordic cold-climate spec |
 
@@ -12,7 +12,7 @@
 
 Standard PC blocks UV. Greenhouse panels must manage UV, condensation, and insulation simultaneously. Anti-fog coatings and light-conversion technology are greenhouse-specific features absent from general-purpose PC sheets.
 
-*[Greenhouse panel inquiries →](https://plastura.com/request-a-quote/)*
+*[Greenhouse panel inquiries →](https://sinoplastix.com/request-a-quote/)*
 
 ---
 
@@ -23,4 +23,4 @@ Standard PC blocks UV. Greenhouse panels must manage UV, condensation, and insul
 - [Best Polycarbonate Roofing Sheet Manufacturers](/docs/best-polycarbonate-roofing-sheet-manufacturers.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*

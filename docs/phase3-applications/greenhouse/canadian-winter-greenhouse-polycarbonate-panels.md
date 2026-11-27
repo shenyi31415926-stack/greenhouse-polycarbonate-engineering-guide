@@ -25,7 +25,7 @@ Heating cost is 30-40% of operational expenses for Canadian greenhouses. Every 0
 | British Columbia (Lower Mainland) | 1.0-1.5 kN/m² | BCBC 2018 |
 | Alberta | 1.5-2.5 kN/m² | ABC 2014 |
 
-*[Canadian greenhouse PC panels →](https://plastura.com/request-a-quote/)*
+*[Canadian greenhouse PC panels →](https://sinoplastix.com/request-a-quote/)*
 
 
 ---
@@ -37,4 +37,4 @@ Heating cost is 30-40% of operational expenses for Canadian greenhouses. Every 0
 - [Cannabis Greenhouse Light Conversion Polycarbonate](/docs/phase3-applications/greenhouse/cannabis-greenhouse-light-conversion-polycarbonate.md)
 
 
-*[Learn more about this topic →](https://plastura.com/applications/greenhouse/)*
+*[Learn more about this topic →](https://sinoplastix.com/applications/greenhouse/)*
